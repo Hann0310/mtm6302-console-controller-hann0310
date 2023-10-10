@@ -1,0 +1,22 @@
+/* Default styles */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+h1, p {
+    margin: 20px;
+}
+
+/* Light theme */
+.light-theme {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Dark theme */
+.dark-theme {
+    background-color: #333;
+    color: #f0f0f0;
+}
